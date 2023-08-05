@@ -6,7 +6,9 @@ This is a Flutter project that utilizes the News API to display news articles. T
 ## Project Structure
 
 The project is structured as follows:
-![Project Structure]('')
+
+!<img width="286" alt="Screenshot 2023-08-03 at 3 39 37 PM" src="https://github.com/Rayyanmaq1/clean_architiecture_with-bloc/assets/71687063/1f2b0923-3067-4cda-a821-5c9a1d2e55a3">
+
 
 ## State Management
 
